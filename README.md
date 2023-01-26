@@ -2,8 +2,6 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Artist)`**
 
-I'm a first year B.S Computer Science student and Digital Artist building my version of digital world one step at a time. All coding projects are built from scratch up, from planning and designing all the way to solving real-time problems with code.
-
 <img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
 <div align='center'>
     <a href="https://github.com/zmcSlow">
@@ -13,8 +11,10 @@ I'm a first year B.S Computer Science student and Digital Artist building my ver
 
 </div>
   
-  ###  About Me ♦
- 
+###  🪧 About Me 
+
+I'm a first year B.S Computer Science student and Digital Artist building my version of digital world one step at a time. All coding projects are built from scratch up, from planning and designing all the way to solving real-time problems with code.
+
 ```js
    //I used "const" because I'm CONSTantly evolving
    const Me = {
@@ -25,9 +25,11 @@ I'm a first year B.S Computer Science student and Digital Artist building my ver
     };
 
 ```
-    
+
+### 🔗 Socials
+
 <div align='center'>
-  	<a href="https://www.facebook.com/profile.php45934578934573475893784" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  	<a href="https://www.youtube.com/channel/UCQxsPy4aLwGQ9fjZhsDJ70Q](https://www.facebook.com/profile.php45934578934573475893784" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/zmrk_ac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   	<a href="https://twitter.com/zmrk_ac" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
