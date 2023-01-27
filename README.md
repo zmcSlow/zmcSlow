@@ -24,7 +24,7 @@ I'm a first year B.S Computer Science student and Digital Artist building my ver
     };
 
 ```
-
+---
 ### 🔗 Socials
 
 <div align='center'>
