@@ -2,7 +2,6 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Artist)`**
 
-<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
 <div align='center'>
     <a href="https://github.com/zmcSlow">
     <img src='https://github.com/dotOttoni/ArthurHydr/blob/main/hacker-25897.png' height='128px' weidth'128px' target="_blank"><br>
